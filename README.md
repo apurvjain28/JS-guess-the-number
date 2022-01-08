@@ -1,4 +1,4 @@
-# advanced-JS
+# JS
 DOM Manipulation Projects
 
 Open HTML file to run the game! Enjoy!
